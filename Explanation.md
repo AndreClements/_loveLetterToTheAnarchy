@@ -13,7 +13,7 @@ These initial commented directives act as a meta-invocation, situating the work 
 ---
 
 ## `DEFINITION`  
-### `Anarchism: a pragmatic design, / to hold a fragile, virtuous line.`
+### `Anarchisms: pragmatic designs, / to hold a fragile, virtuous line.`
 
 Anarchism is defined not as destruction or chaos, but as a careful, functional strategy for maintaining ethical integrity. It is practical ("pragmatic") and subtle, focused on preserving a "fragile, virtuous line"—a thin, difficult-to-maintain stance that resists both authoritarian control and moral collapse.
 
