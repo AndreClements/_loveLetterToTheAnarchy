@@ -8,7 +8,7 @@
 
 `DEFINITION`
 
-Anarchisms: a pragmatic designs,
+Anarchisms: pragmatic designs,
 
 to hold a fragile, virtuous line.
 
