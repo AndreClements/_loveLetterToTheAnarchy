@@ -3,9 +3,13 @@
 // For navigating the maculate design.
 
 `DEFINITION`
+
 Anarchism: a pragmatic design,
+
 to hold a fragile, virtuous line.
+
 Not nihilism’s null, but striving’s art—
+
 a structured grace for the fractured part.
 
 `CORE_PROTOCOL: Salutogenesis`
