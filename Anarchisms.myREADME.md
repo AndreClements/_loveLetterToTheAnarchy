@@ -19,7 +19,7 @@ To find the meaning, though meaning’s lost,
 and build a shelter, from the monstreous, of the monsterous, knowing it costs.
 
 `DEPENDENCIES`
-//use /D&R/sefDeterminationTheory;
+//use /DeciAndRyan/selfDeterminationTheory;
 Requires: Autonomy  (the right to turn)
 Requires: Competence (the will to learn)
 Requires: Relatedness (the risk to burn)
@@ -36,5 +36,7 @@ A bug-report from some shared farcical hell
 into which we seem to have, fell.
 .
 `VULNERABILITIES`
-The shadows do also get in—
+The shadows also get in —
 everywhere.
+
+`Anarchisms.myREADME.md()`
