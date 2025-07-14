@@ -120,3 +120,5 @@ The text concludes by framing itself not as a solution or manifesto, but as an a
 This concluding statement is about radical honesty. It acknowledges that the philosophical system is not a perfect fortress. Negative forces, despair, or the world's flaws cannot be kept out entirely. The final word, "everywhere," confirms that this vulnerability is total and absolute, leaving no room for illusion.
 
 The `VULNERABILITIES` section functions as a crucial exercise in systemic self-critique, a declaration of inherent porosity. The shadow is not a bug to be patched but a fundamental, constitutive element of the environment and, by extension, the self. The terminal adverb, "everywhere," delivered after a caesura, operates as a global override, negating any possibility of a secure internal sanctum. This final disclosure confirms the philosophy's ultimate commitment to realism over idealism, acknowledging that the shelter it builds is, and must always be, permeable, imperfect - temporary.
+
+<p><a href="https://github.com/AndreClements/_loveLetterToTheAnarchy/blob/main/Anarchisms.myREADME.md">Anarchisms.myREADME.md()</a></p>
