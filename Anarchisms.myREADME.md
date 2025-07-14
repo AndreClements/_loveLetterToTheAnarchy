@@ -71,4 +71,4 @@ The shadows also get in —
 
 everywhere.
 
-`Anarchisms.myREADME.md()`
+<p><a href="https://github.com/AndreClements/_loveLetterToTheAnarchy/blob/main/Anarchisms.myREADME.md">Anarchisms.myREADME.md()</a></p>
