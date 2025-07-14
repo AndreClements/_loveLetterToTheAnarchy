@@ -41,4 +41,4 @@ in the void.
 
 Use it, or lose it.
 
-`Anarchisms.myREADME.md()`
+<p><a href="https://github.com/AndreClements/_loveLetterToTheAnarchy/blob/main/Anarchisms.myREADME.md">Anarchisms.myREADME.md()</a></p>
